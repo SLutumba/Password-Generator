@@ -1,6 +1,2 @@
-# To-DoApp
-# To-DoApp
-# To-DoApp
-# To-DoApp
 # Password-Generator
-# Password-Generator
+This app allows a user to input parameters for a password that's randomly generated.
